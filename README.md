@@ -23,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.8+
 - PyTorch 1.8.1+
 - NVIDIA GPU with CUDA CuDNN
-- 
+  
 
 ## Installation
 Clone the repository and install the required packages:
