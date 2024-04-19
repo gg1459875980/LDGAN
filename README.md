@@ -83,6 +83,6 @@ If you have any questions or feedback, please contact me at 2020213408@bupt.com]
 
 
 ## Acknowledgements
-- Alzheimer's Disease Neuroimaging Initiative (ADNI) for providing the dataset.
+- Adolescent Brain Congnitive Development (ABCD) for providing the dataset.
 - This research was supported by Center for Artificial Intelligence in Medical Imaging, BUPT .
 
